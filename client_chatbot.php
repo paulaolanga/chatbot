@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chatbot Simples</title>
     <style>
-        /* Estilo do Chatbot */
+        /* Estilo do Chatbot */  
         #chatbot {
             position: fixed;
             bottom: 20px;
@@ -17,7 +17,7 @@
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
             font-family: Arial, sans-serif;
             display: none; /* Inicialmente escondido */
-            overflow: hidden;
+            overflow: hidden; 
         }
         #chatbot-header {
             background-color: #2C6B2F; /* Cor escura para o cabeÃ§alho */
